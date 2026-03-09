@@ -1,6 +1,6 @@
 # CSC Workforce Accelerator Platform
 
-Full-stack workforce management platform with **AI-powered skill gap analysis** built for the **Center for Sustainable Communities (CSC)**.
+Full-stack workforce management platform with **AI-powered skill gap analysis** built for the **Center of Sustainable Communities**.
 
 The system enables program ambassadors to manage job-seeker profiles, analyze workforce skill gaps, and securely manage program documents through a centralized digital platform.
 
@@ -10,10 +10,10 @@ This project was developed as part of a **client-facing software engineering cap
 
 # Demo
 
-Full system walkthrough (13 minutes)
+Full system walkthrough
 
 ▶️ Demo Video  
-PASTE_VIDEO_LINK_HERE
+Will Upload it soon!
 
 ---
 
@@ -121,7 +121,7 @@ The system processes workforce data through multiple stages including profile in
 
 ---
 
-# My Contributions
+# Contributions
 
 As a **Software Engineer on the project team**, I contributed to the design and implementation of core platform features.
 
@@ -138,7 +138,7 @@ Key contributions include:
 
 # Project Context
 
-This system was built for the **Center for Sustainable Communities** as part of a client-facing software engineering project.
+This system was built for the **Center of Sustainable Communities** as part of a client-facing software engineering project.
 
 The objective was to build a scalable digital platform that supports workforce development programs and improves data-driven decision making.
 
