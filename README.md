@@ -12,14 +12,14 @@ This project was developed as part of a **client-facing software engineering cap
 
 Full system walkthrough
 
-▶️ Demo Video  
-Will Upload it soon!
+▶️ **Demo Video**  
+Coming soon – video walkthrough of the full application workflow including profile management and AI skill gap analysis.
 
 ---
 
 # Overview
 
-The CSC Workforce Accelerator platform digitizes workforce development workflows that were previously managed manually.
+The CSC Workforce Accelerator platform digitizes workforce development workflows that were previously managed manually, enabling scalable data-driven workforce program management.
 
 It enables program ambassadors to:
 
@@ -88,6 +88,8 @@ The platform follows a modular architecture separating:
 
 ![Architecture](assets/Architecture.png)
 
+The architecture separates frontend presentation, backend services, database storage, and AI-powered analysis components to support scalable workforce data processing.
+
 ---
 
 # System Workflow
@@ -111,7 +113,7 @@ The system processes workforce data through multiple stages including profile in
 - Firestore
 - Google Cloud APIs
 
-### AI / Data Processing
+### AI / ML
 - LLM-based analysis pipeline
 - Retrieval-Augmented workflows
 
@@ -121,7 +123,7 @@ The system processes workforce data through multiple stages including profile in
 
 ---
 
-# Contributions
+# My Contributions
 
 As a **Software Engineer on the project team**, I contributed to the design and implementation of core platform features.
 
